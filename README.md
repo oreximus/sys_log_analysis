@@ -14,6 +14,6 @@
 
 - The Report **Main Matter** will tell us about the overall system condition, and is it safe at it's condition to be able work safely with it.
 
-![img01](imgs/img01.png)
+![img01](resources/imgs/img01.png)
 
-![img02](imgs/img02.png)
+![img02](resources/imgs/img02.png)
